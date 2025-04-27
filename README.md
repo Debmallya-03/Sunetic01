@@ -12,7 +12,7 @@ Sunetic is an AI-powered solar analysis platform that enables users to assess so
 ## Installation
 
 To run the Sunetic platform, follow these steps: 
-Here is the website link - https://67cf463f2854cc22743e1748--calm-cocada-c4ae5e.netlify.app/
+Here is the website link - (https://sunetic-ai.netlify.app/)
 
 ### 1. Clone the repository
 
