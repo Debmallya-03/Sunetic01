@@ -1,42 +1,61 @@
-# Sunetic - AI-powered Solar Analysis Platform
+# ☀️ Sunetic - AI-powered Solar Analysis Platform
 
-Sunetic is an AI-powered solar analysis platform that enables users to assess solar energy potential in real-time. By using a mobile camera, Sunetic scans the area and provides accurate solar insights based on live data. The platform empowers users to make informed decisions about solar energy by delivering precise, data-driven results with ease and accessibility.
+Sunetic is an AI-powered solar analysis platform that enables users to assess solar energy potential in real-time.
+By using a mobile camera, Sunetic scans the surrounding area and delivers accurate, data-driven solar insights instantly — making solar planning easy, fast, and accessible.
 
-## Features
+---
 
-- **Real-time Solar Analysis**: Use your mobile camera to scan the area and get instant solar insights.
-- **AI-powered Insights**: Leverage advanced AI technology to provide accurate, live solar data and predictions.
-- **User-Friendly**: Easy to use with an intuitive interface designed for quick and efficient solar analysis.
-- **Data-Driven**: Offers precise results based on real-time image analysis.
+## 🚀 Features
+- Real-time Solar Analysis: Scan your surroundings with a mobile camera and get instant solar potential insights.
 
-## Installation
+- AI-powered Predictions: Advanced machine learning models analyze live data for highly accurate results.
 
-To run the Sunetic platform, follow these steps: 
-Here is the website link - (https://sunetic-ai.netlify.app/)
+- User-Friendly Interface: Designed for easy use, even by non-technical users.
 
-### 1. Clone the repository
+- Data-Driven Insights: Provides precise, actionable data to support informed decision-making.
 
-Clone the repository to your local machine:
+- Accessible and Affordable: Eliminates the need for expensive surveys or complex equipment.
 
-git clone "the link"
+---
 
-Install dependencies
-Run the following command to install the required dependencies:
-npm install
+## 🎯 Problem It Solves
 
+Accurately assessing solar energy potential has traditionally been expensive, time-consuming, and inaccessible for many users. Sunetic solves this by providing real-time solar analysis through just a smartphone camera, making clean energy planning affordable and easy for everyone — anywhere in the world.
 
-Once the dependencies are installed, start the application:
-npm start
+---
 
-This will launch the application on your local server.
+## 🛠️ Tech Stack
+Frontend: React.js, Material UI
 
+Backend: Node.js, Express
 
-Usage
-After starting the application, open it in your browser (usually at http://localhost:3000) or you can simply open website from the link given above.
-Point your mobile camera at an area to scan and get real-time solar insights.
-The AI will analyze the image and provide precise data about the solar potential of the area.
+AI/ML: Custom-trained model LLM Rage powered by Gemini 1.5 Flash
 
-Technologies Used
-React.js: For building the frontend user interface.
-Google Gemini 1.4 Flash API: For real-time image analysis and solar insights.
+Database: Pinecone VectorDB
 
+Hosting: Netlify (Frontend), Render/Heroku (Backend)
+
+---
+
+### 📸 How It Works
+- Open the Sunetic app/web app.
+
+- Allow camera access and scan the surrounding area.
+
+- The AI analyzes the live image feed and predicts solar potential instantly.
+
+- Get easy-to-understand insights to support your solar energy decisions.
+
+---
+
+## 📈 Future Scope
+- Offline mode support
+
+- More detailed energy yield estimations
+
+- 3D visualization of solar potential
+
+- Integration with satellite for even better predictions
+
+---
+🌟 Let's make solar energy accessible to everyone with the power of AI!
