@@ -24,6 +24,18 @@ Accurately assessing solar energy potential has traditionally been expensive, ti
 
 ---
 
+### 🧠 Team & Approach
+Team Name: GLITCHx FUSION
+Your team name here
+
+Team Members:
+- 1.Debmallya Bhandari
+- 2.Sufal Basak
+- 3.Adarsh Raj
+- 4.Deepak Verma
+
+---
+
 ## 🛠️ Tech Stack
 Frontend: React.js, Material UI
 
