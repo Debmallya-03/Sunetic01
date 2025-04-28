@@ -60,6 +60,9 @@ Hosting: Netlify (Frontend), Render/Heroku (Backend)
 
 ---
 
+## PPT Link - https://drive.google.com/file/d/1TSa_BHDV1_BspBXHGuWy_hizaZJMDiCe/view?usp=sharing
+## Demo Link - https://drive.google.com/file/d/1btobfpijhZAl9_mCa0L0r1cHYnhq1rHR/view?usp=sharing
+
 ## 📈 Future Scope
 - Offline mode support
 
